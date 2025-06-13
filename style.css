@@ -83,11 +83,25 @@ background-color: black;
 color: white
 
 }
-.option-two-screen,
-.option-one-end,
+.option-two-screen {
+    background-color: black;
+color: red;
+
+}
+.option-one-end {
+    background-color: black;
+    color: white;
+    border: 1px solid #12a152;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+
+}
 .option-two-end {
-    background-color: #fff;
-    border: 1px solid #ccc;
+    background-color: #000000;
+    border: 1px solid #ef6018;
+    color: red;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
